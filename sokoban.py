@@ -1,7 +1,7 @@
 def main():
     history = []
 
-    while True: 
+    while True:
         action = input("Action: ")
 
         if action == "Undo":

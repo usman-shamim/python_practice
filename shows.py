@@ -6,7 +6,7 @@ SHOWS = [
     "Phineas and ferb",
     "Kim possible",
     " Jimmy Neutron",
-    "the Proud family "
+    "the Proud family ",
 ]
 
 
@@ -16,5 +16,6 @@ def main():
         cleaned_shows.append(show.strip().title())
 
     print(", ".join(cleaned_shows))
+
 
 main()

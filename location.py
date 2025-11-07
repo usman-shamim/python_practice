@@ -4,4 +4,5 @@ def main():
     print(f"Latitude: {latitude}")
     print(f"Longitude: {longitude}")
 
+
 main()

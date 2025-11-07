@@ -1,12 +1,12 @@
-result = ["mario","luigi"]
+result = ["mario", "luigi"]
 
 result.append("princess")
 
-result.append(["usman","shamim"])
-result.remove(["usman","shamim"])
-result.extend(["usman","shamim"])
+result.append(["usman", "shamim"])
+result.remove(["usman", "shamim"])
+result.extend(["usman", "shamim"])
 
-result.insert(1,"asher")
+result.insert(1, "asher")
 
 result.reverse()
 

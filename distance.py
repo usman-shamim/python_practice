@@ -19,7 +19,8 @@ def main():
         return
 
     m = convert(au)
-    print (f"{m} m away")
+    print(f"{m} m away")
+
 
 def convert(au):
     return au * 149597870700
