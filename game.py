@@ -24,4 +24,3 @@ while True:
             break
     except ValueError:
         pass
-
